@@ -11,7 +11,7 @@ JobsPlace is a personal project I created that involves building a compact dashb
 ### Medium Devices - Tablets
 
 <p align="center">
-  <img width="48%" src="https://github.com/kishanlalchoudhary/JobsPlace-Dashboard/assets/107745828/971ef98b-cabd-480a-b80b-ca3cccdeb916.png">
+  <img width="48%" src="https://raw.githubusercontent.com/kishanlalchoudhary/JobsPlace-Dashboard/main/.github/images/tablet-1.png">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="48%" src="https://github.com/kishanlalchoudhary/JobsPlace-Dashboard/assets/107745828/2c7506e4-e9ec-4bda-bd4d-4173f45dbd2f.png">
 </p>
