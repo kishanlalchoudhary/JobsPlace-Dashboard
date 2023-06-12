@@ -1,6 +1,6 @@
 # JobsPlace-Dashboard
 
-JobsPlace is a personal project I created that involves building a compact dashboard. I utilized HTML, CSS, and jQuery to craft an interactive and visually appealing interface.
+JobsPlace is a personal project I created that involves building a compact dashboard. I utilized HTML, CSS, Javascript and jQuery to craft an interactive and visually appealing interface.
 
 ## Screenshots
 
