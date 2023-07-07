@@ -27,5 +27,3 @@ JobsPlace is a personal project I created that involves building a compact dashb
   &nbsp;
   <img width="30%" src="https://raw.githubusercontent.com/kishanlalchoudhary/JobsPlace-Dashboard/main/.github/images/mobile-3.png">
 </p>
-
-## [Deployed Project link](https://kishanlalchoudhary.github.io/JobsPlace-Dashboard/)
